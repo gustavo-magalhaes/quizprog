@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-vars */
 import Quiz from "../img/quiz.svg";
-import "./welcome.css";
+import "./Welcome.css";
 import { useContext } from "react";
 import { QuizContext } from "../context/quiz";
 
